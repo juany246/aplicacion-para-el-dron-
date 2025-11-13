@@ -1,0 +1,5 @@
+{
+  "name": "Controlador de Dron",
+  "description": "Una aplicación web para controlar un dron educativo a través de Bluetooth, basada en un Arduino Nano y drivers L298N. Proporciona una interfaz amigable para prender y apagar los motores, calibrar y maniobrar el dron.",
+  "requestFramePermissions": []
+}
